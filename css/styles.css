@@ -1,0 +1,203 @@
+body {
+  text-align: center;
+  background-color: #EAF6F6;
+}
+.top-container {
+  padding-top: 200px;
+  background-color: #ff4b5c;
+  text-align: center;
+  position: relative;
+}
+
+
+.top-cloud {
+position: absolute;
+top: 60px;
+right: 400px;
+
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 200px;
+}
+
+.name-heading {
+  font-family: 'Merienda One', cursive;
+  color: #66BFBF;
+  font-size: 3.3rem;
+}
+
+
+.work-heading {
+font-family: 'Mitr', sans-serif;
+color: #66BFBF;
+font-size: 1.5rem;
+}
+
+h2 {
+  font-family: 'Mitr', sans-serif;
+  color: #66BFBF;
+    font-size: 2.5rem;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  color: #66BFBF;
+
+}
+
+h3{
+  font-family: 'Raleway', sans-serif;
+  color: #333456;
+}
+
+p {
+color: #333456;
+font-family: 'Mitr', sans-serif;
+}
+
+.myButton {
+	box-shadow: 0 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #90d0e8 5%, #408c99 100%);
+	background-color:#90d0e8;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #90d0e8 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.contacts {
+  padding: 40px;
+  background-color: #d9ecf2;
+}
+
+.linkedin {
+	box-shadow: 0 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #90d0e8 5%, #408c99 100%);
+	background-color:#90d0e8;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.linkedin:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #90d0e8 100%);
+	background-color:#408c99;
+}
+.linkedin:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+
+.twitter {
+	box-shadow: 0 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #90d0e8 5%, #408c99 100%);
+	background-color:#90d0e8;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.twitter:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #90d0e8 100%);
+	background-color:#408c99;
+}
+.twitter:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+
+
+.website {
+	box-shadow: 0 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #90d0e8 5%, #408c99 100%);
+	background-color:#90d0e8;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.website:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #90d0e8 100%);
+	background-color:#408c99;
+}
+.website:active {
+	position:relative;
+	top:1px;
+}
+
+.computer-img {
+  width: 20%;
+  float: left;
+  margin-right: 50px;
+}
+
+.chillies-img {
+  width: 20%;
+  float: right;
+  margin-left: 60px;
+
+}
+
+.intro-div {
+  padding-top: 50px;
+  width: 50%;
+  margin: 100px auto;
+}
+
+.skill-1 {
+  width: 50%;
+  margin: 100px auto;
+}
+
+.skill-2 {
+  width: 50%;
+  margin: 100px auto;
+}
